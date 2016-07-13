@@ -1,0 +1,5 @@
+Q1. 		Login related testcase are most common test scenarios in case of Website testing
+Q2. & Q3 	Used Selenium IDE as it is easy to used and testcase can be easily created. 
+     		Using Seleniumhq plugin, test suite can be added to jenkins
+Q4		Used Python Unittest for creating testcase. 
+		Also could have added more test verfication granularities.
